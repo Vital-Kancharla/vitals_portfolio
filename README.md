@@ -1,7 +1,6 @@
 # vitals_portfolio
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
-![Peek 2022-01-24 11-06](https://vital-kancharla.github.io/vitals_portfolio/)
 
 # Tools used #
 * HTML, CSS and JavaScript
